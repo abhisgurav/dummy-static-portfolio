@@ -2,11 +2,11 @@
 
 📌 Overview
 
-Welcome to my personal portfolio website, showcasing my skills, projects, and experience as a Senior Software Developer. This website serves as a professional representation of my expertise in C#, SQL, JavaScript, HTML, CSS, ASP.NET, Bootstrap, and jQuery.
+Welcome to dummy portfolio website, showcasing skills, projects, and experience sections. This website serves as a professional representation of personal dummy portfolio.
 
 🚀 Features
 
-Professional Portfolio – Highlights my skills, experience, and technical expertise.
+Professional Portfolio – Highlights skills, experience, and technical expertise.
 
 Responsive Design – Ensures an optimized viewing experience across all devices.
 
@@ -38,10 +38,10 @@ Smooth UI/UX – Uses modern design principles for a clean and engaging interfac
 
 Clone the repository:
 
-        git clone https://github.com/abhisgurav/abhisgurav.git
+        git clone https://github.com/abhisgurav/dummy-static-portfolio
 
 Open index.html in a browser to view the portfolio.
 
 🔗 Live Demo
 
-        Check out the live version here: https://abhisgurav.github.io/abhisgurav/
+        Check out the live version here: https://abhisgurav.github.io/dummy-static-portfolio/
